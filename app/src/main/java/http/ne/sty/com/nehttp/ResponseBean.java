@@ -1,4 +1,4 @@
-package http.ne.sty.com.nehttp.neokhttp;
+package http.ne.sty.com.nehttp;
 
 public class ResponseBean {
     private String error_code;
